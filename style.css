@@ -1,0 +1,16 @@
+body {
+    margin-top: 90px;
+}
+
+.container {
+    background: black;
+    border-radius: 20px; 
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+h3 {
+    background: gray;
+}
